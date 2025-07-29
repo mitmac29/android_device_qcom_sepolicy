@@ -187,3 +187,6 @@ vendor_restricted_prop(vendor_qvr_prop);
 vendor_internal_prop(vendor_cap_configstore_dbg_prop);
 
 vendor_internal_prop(vendor_dcvs_prop);
+
+# Property used by location HAL for XTRA config
+vendor_internal_prop(xtra_control_prop);
